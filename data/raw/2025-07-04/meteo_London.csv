@@ -1,0 +1,2 @@
+ville,date_extraction,temperature,temp_min,temp_max,humidite,pression,vent_vitesse,vent_direction,precipitation,description,latitude,longitude
+London,2025-07-04,20.95,19.95,22.79,49,1028,2.57,0,0,overcast clouds,51.5085,-0.1257

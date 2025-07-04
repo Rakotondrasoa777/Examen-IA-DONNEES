@@ -1,0 +1,2 @@
+ville,date_extraction,temperature,temp_min,temp_max,humidite,pression,vent_vitesse,vent_direction,precipitation,description,latitude,longitude
+Paris,2025-07-04,22.21,21.43,23.54,38,1029,4.12,20,0,clear sky,48.8534,2.3488

@@ -1,0 +1,2 @@
+ville,date_extraction,temperature,temp_min,temp_max,humidite,pression,vent_vitesse,vent_direction,precipitation,description,latitude,longitude
+Tokyo,2025-07-04,30.01,28.47,30.9,65,1007,8.23,190,0,broken clouds,35.6895,139.6917
